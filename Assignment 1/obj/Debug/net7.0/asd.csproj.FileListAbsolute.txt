@@ -1,0 +1,30 @@
+/Users/amarnagim/Projects/asd/bin/Debug/net7.0/asd
+/Users/amarnagim/Projects/asd/bin/Debug/net7.0/asd.deps.json
+/Users/amarnagim/Projects/asd/bin/Debug/net7.0/asd.runtimeconfig.json
+/Users/amarnagim/Projects/asd/bin/Debug/net7.0/asd.dll
+/Users/amarnagim/Projects/asd/bin/Debug/net7.0/asd.pdb
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/asd.csproj.AssemblyReference.cache
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/asd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/asd.AssemblyInfoInputs.cache
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/asd.AssemblyInfo.cs
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/asd.csproj.CoreCompileInputs.cache
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/asd.dll
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/refint/asd.dll
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/asd.pdb
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/asd.genruntimeconfig.cache
+/Users/amarnagim/Projects/asd/obj/Debug/net7.0/ref/asd.dll
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/bin/Debug/net7.0/asd
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/bin/Debug/net7.0/asd.deps.json
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/bin/Debug/net7.0/asd.runtimeconfig.json
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/bin/Debug/net7.0/asd.dll
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/bin/Debug/net7.0/asd.pdb
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/asd.csproj.AssemblyReference.cache
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/asd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/asd.AssemblyInfoInputs.cache
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/asd.AssemblyInfo.cs
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/asd.csproj.CoreCompileInputs.cache
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/asd.dll
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/refint/asd.dll
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/asd.pdb
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/asd.genruntimeconfig.cache
+/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/Debug/net7.0/ref/asd.dll
