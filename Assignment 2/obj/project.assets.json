@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/asd.csproj",
+      "projectUniqueName": "/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/Assignment 2/asd.csproj",
       "projectName": "asd",
-      "projectPath": "/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/asd.csproj",
+      "projectPath": "/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/Assignment 2/asd.csproj",
       "packagesPath": "/Users/amarnagim/.nuget/packages/",
-      "outputPath": "/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/obj/",
+      "outputPath": "/Users/amarnagim/Library/CloudStorage/OneDrive-DaVinciCollege/Da Vinci College/software_developen/Assignments/jaar_2/Pokemon Battle Simulator c#/pokemon-battle-simulator/Assignment 2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/amarnagim/.nuget/NuGet/NuGet.Config"

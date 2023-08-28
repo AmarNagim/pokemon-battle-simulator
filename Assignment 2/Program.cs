@@ -23,8 +23,8 @@ namespace PokemonBattleSimulator
 
                     Console.Write(Environment.NewLine + "Do you want to play again? [Y/N]:");
                     String yesNoVarAgain = Console.ReadLine();
-                    
-                    if(yesNoVarAgain == "N")
+
+                    if (yesNoVarAgain == "N")
                     {
                         continuePlaying = false;
                         Console.WriteLine("Have a nice day!");
@@ -46,33 +46,15 @@ namespace PokemonBattleSimulator
         }
     }
 
-    class Charmander
-    {
-        public String name;
-        public String strength;
-        public String weakness;
+
+    
+
+    //class Pokeball()
+    //    {
+
+    //    }
 
 
-        public Charmander(String name, String strength, String weakness)
-        {
-            this.name = name;
-            this.strength = strength;
-            this.weakness = weakness;
 
-        }
-
-        public void battleCry(int amountBattleCry)
-        {
-            for (int i = 1; i <= 10; i = i + 1)
-            {
-                Console.WriteLine(this.name + " does battlecry " + i + '!');
-            }
-        }
-
-        //maak een setNAme functie die een name parameter ontvangt, en de waarde van het field "name" aanpast
-        //....
-
-
-    }
 
 }
